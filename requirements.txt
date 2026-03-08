@@ -1,0 +1,2 @@
+streamlit
+docx  <-- Ne marche pas ! C'est une vieille librairie obsolète.
